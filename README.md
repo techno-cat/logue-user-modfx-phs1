@@ -1,4 +1,4 @@
-# flg1
+# phs1
 This is simple phaser,  
 can use as `USER MODULATION FX`.
 
